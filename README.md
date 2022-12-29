@@ -2,9 +2,9 @@
 ## Implementing Yao Garbeld Circuit Protocol
 
 ### Team Members: 
-- Mohammed Almohammedsaleh, 201814920
-- Kumail Alhuwayji, 201841900
-- Ahmad Bazroon, 201811820
+- Mohammed Almohammedsaleh
+- Kumail Alhuwayji
+- Ahmad Bazroon
 
 ___________
 
